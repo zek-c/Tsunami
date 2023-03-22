@@ -132,11 +132,11 @@ body[appearance="forest"] {
 
 body[appearance="midnight"] {
 --light-text: white;
---dark-text: black;
---highlight: #4B0082;
---bg-main: #150025;
+--dark-text: white;
+--highlight: #FFFFFF;
+--bg-main: #000000;
 --placeholder: #666666;
---border: #5f6368;
+--border: #FFFFFF;
 --font-main: Roboto;
 --font-title: Quicksand;
 }
